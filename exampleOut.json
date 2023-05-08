@@ -1,0 +1,78 @@
+{
+    "aquarium": {
+        "poissons": [
+            {
+                "nom": "poissonCorail",
+                "type": "POISSON",
+                "profondeurMin": -50,
+                "profondeurMax": 50,
+                "vitesse": 2,
+                "transformation": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                ]
+            }
+        ],
+        "plantes": [
+            {
+                "nom": "planteCabbage",
+                "type": "PLANTE",
+                "profondeurMin": -50,
+                "profondeurMax": 50,
+                "transformation": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                ]
+            },
+            {
+                "nom": "plantePetite",
+                "type": "PLANTE",
+                "profondeurMin": -50,
+                "profondeurMax": 50,
+                "transformation": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                ]
+            }
+        ]
+    }
+}
